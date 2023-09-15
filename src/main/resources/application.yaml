@@ -1,0 +1,17 @@
+#普通数据类型属性
+#server:
+#  port: 8044
+#  servlet:
+#    context-path: /chapter
+#
+#
+#student:
+#  id: 006
+#  name: 小康
+#  hobby: [read]
+#  elect-product: [phone]
+#  friends: {key1: mn}
+#  course: {courseId: 10,courseName: 可以}
+#  age: 20
+
+
